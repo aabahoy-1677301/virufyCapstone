@@ -100,7 +100,7 @@ function DrawerAppBar(props) {
 DrawerAppBar.propTypes = {
   /**
    * Injected by the documentation to work in an iframe.
-   * You will not need it on your project.
+   * You won't not need it on your project.
    */
   window: PropTypes.func,
 };
